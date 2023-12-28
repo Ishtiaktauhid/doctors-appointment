@@ -1,0 +1,17 @@
+.owl-carousel .owl-nav button.owl-prev, .owl-carousel .owl-nav button.owl-next {
+    background-color: #06A3DA;
+    color: white;
+    border: none;
+    padding: 0 !important;
+    font: inherit;
+}
+.owl-dots{
+    display: none;
+}
+.testimonial-carousel .owl-item img {
+    width: 120px;
+    height: 120px;
+}
+.price-item{
+	margin-right:10px;
+}
